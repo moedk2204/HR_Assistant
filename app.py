@@ -220,7 +220,7 @@ with gr.Blocks(css=custom_css, title="HR Assistant | Premium", theme=modern_them
 # Launch the app
 if __name__ == "__main__":
     print("\n" + "="*60)
-    print("🚀 Starting HR Assistant Pro")
+    print("🚀 Starting HR Assistant")
     print("="*60 + "\n")
     
     demo.launch(
